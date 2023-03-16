@@ -10,3 +10,4 @@ If you want to add other weapons add them to the `config.lua` file in the same w
 
 ### Idle usage
 ![Resmon](https://i.imgur.com/D3mqhNe.png)
+![FiveM_b2699_GTAProcess 2023-02-06 12-52-24](https://user-images.githubusercontent.com/105738467/225723305-61a8eaed-c169-4fa6-9062-2998a5d4f5a9.png)
