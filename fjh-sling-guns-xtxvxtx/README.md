@@ -13,3 +13,4 @@ If you want to add other weapons add them to the `config.lua` file in the same w
 
 ### Idle usage
 ![Resmon](https://i.imgur.com/D3mqhNe.png)
+![Howa Type 20 Black](https://user-images.githubusercontent.com/105738467/225723377-93abbcf2-dd43-4f6e-bc48-2460b3a36071.png)
