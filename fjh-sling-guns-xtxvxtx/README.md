@@ -1,11 +1,5 @@
-# fjh-sling
-Simple weapons slings for the qbcore framework. Will put any weapon that is in the inventory hotbar on the players body.
-
-[Support my Projects](https://ko-fi.com/fjhstudios)
-
-[Discord](https://discord.gg/CN8chwsK7E)
-
-[Preview](https://i.imgur.com/XeFO0SH.mp4)
+# fjh-sling-guns-xtxvxtx
+Simple weapons slings for the qbcore framework. Will put any weapon that is in the inventory on the players body.
 
 ### Installation
 
