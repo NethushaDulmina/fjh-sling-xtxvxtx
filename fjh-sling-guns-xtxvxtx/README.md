@@ -3,7 +3,7 @@ Simple weapons slings for the qbcore framework. Will put any weapon that is in t
 
 ### Installation
 
-Add ``start fjh-sling`` or ``ensure fjh-sling`` to your server.cfg or mods.cfg if you use one.
+Add ``start fjh-sling-guns-xtxvxtx`` or ``ensure fjh-sling-guns-xtxvxtx`` to your server.cfg or mods.cfg if you use one.
 
 ### Config file
 If you want to add other weapons add them to the `config.lua` file in the same way weapons are added there now. The first value needs the be the item name from qbcore shared.lua otherwise it cannot find the weapon.
