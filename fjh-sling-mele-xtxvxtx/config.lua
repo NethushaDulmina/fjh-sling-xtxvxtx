@@ -52,5 +52,6 @@ Config = {
          ["weapon_dragon_katana_green"] = { model = "w_me_dragon_katana_sheathed_green", hash = GetHashKey("weapon_dragon_katana_green")},
          ["weapon_dragon_katana_purple"] = { model = "w_me_dragon_katana_sheathed_purple", hash = GetHashKey("weapon_dragon_katana_purple")},
          ["weapon_dragon_katana_yellow"] = { model = "w_me_dragon_katana_sheathed_yellow", hash = GetHashKey("weapon_dragon_katana_yellow")},
+         ["weapon_butcher_knife"] = { model = "w_me_butcher_knife", hash = GetHashKey("weapon_butcher_knife")},
       }
 }
