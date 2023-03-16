@@ -31,8 +31,6 @@ Config = {
 
     compatable_weapon_hashes = {
          -- Mele
-         ["weapon_katana"] = { model = "w_me_katana", hash = GetHashKey("weapon_katana")},
-         ["weapon_katana_2"] = { model = "w_me_katana_2_saya", hash = GetHashKey("weapon_katana_2")},
          ["weapon_bat"] = { model = "w_me_bat", hash = GetHashKey("weapon_bat")},
          ["weapon_crowbar"] = { model = "w_me_crowbar", hash = GetHashKey("weapon_crowbar")},
          ["weapon_golfclub"] = { model = "w_me_gclub", hash = GetHashKey("weapon_golfclub")},
@@ -43,6 +41,9 @@ Config = {
          ["weapon_poolcue"] = { model = "w_me_poolcue", hash = GetHashKey("weapon_poolcue")},
          ["weapon_stone_hatchet"] = { model = "w_me_stonehatchet", hash = GetHashKey("weapon_stone_hatchet")},
          ["weapon_dagger"] = { model = "w_me_dagger", hash = GetHashKey("weapon_dagger")},
+		 -- Addon Weapons
+         ["weapon_katana"] = { model = "w_me_katana", hash = GetHashKey("weapon_katana")},
+         ["weapon_katana_2"] = { model = "w_me_katana_2_saya", hash = GetHashKey("weapon_katana_2")},
          ["weapon_shadowmourne"] = { model = "w_me_shadowmourne", hash = GetHashKey("weapon_shadowmourne")},
          ["weapon_ebonblade"] = { model = "w_me_ebonblade", hash = GetHashKey("weapon_ebonblade")},
          ["weapon_frostmourne"] = { model = "w_me_frostmourne", hash = GetHashKey("weapon_frostmourne")},

@@ -30,8 +30,6 @@ Config = {
     },
 
     compatable_weapon_hashes = {
-         -- Mele
---         ["weapon_katana"] = { model = "w_me_katana", hash = GetHashKey("weapon_katana")},
          -- Light Machine Guns:
          ["weapon_mg"] = { model = "w_mg_mg", hash = GetHashKey("weapon_mg")},
          ["weapon_combatmg"] = { model = "w_mg_combatmg", hash = GetHashKey("weapon_combatmg")},
@@ -55,7 +53,7 @@ Config = {
          ["weapon_smg"] = { model = "w_sb_smg", hash = GetHashKey("weapon_smg")},
          ["weapon_smg_mk2"] = { model = "w_sb_smgmk2", hash = GetHashKey("weapon_smg_mk2")},
          ["weapon_combatpdw"] = { model = "w_sb_pdw", hash = GetHashKey("weapon_combatpdw")},
---         ["weapon_machinepistol"] = { model = "w_sb_compactsmg", hash = GetHashKey("weapon_machinepistol")},
+         ["weapon_machinepistol"] = { model = "w_sb_compactsmg", hash = GetHashKey("weapon_machinepistol")},
          ["weapon_raycarbine"] = { model = "w_ar_srifle", hash = GetHashKey("weapon_raycarbine")},
          -- sniper rifles:
          ["weapon_sniperrifle"] = { model = "w_sr_sniperrifle", hash = GetHashKey("weapon_sniperrifle")},
@@ -83,6 +81,7 @@ Config = {
          ["weapon_railgun"] = { model = "w_ar_railgun", hash = GetHashKey("weapon_railgun")},
          ["weapon_hominglauncher"] = { model = "w_lr_homing", hash = GetHashKey("weapon_hominglauncher")},
          ["weapon_rayminigun"] = { model = "w_mg_sminigun", hash = GetHashKey("weapon_rayminigun")},
+         -- Addon Weapons:
          ["weapon_fennec_dtd"] = { model = "w_sb_smg_fennec_dtd_sling", hash = GetHashKey("weapon_fennec_dtd")},
          ["weapon_p90"] = { model = "w_sb_smg_p90", hash = GetHashKey("weapon_p90")},
          ["weapon_howatype20"] = { model = "w_ar_howatype20", hash = GetHashKey("weapon_howatype20")},
