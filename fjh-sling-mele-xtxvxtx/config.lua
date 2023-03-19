@@ -54,5 +54,12 @@ Config = {
          ["weapon_dragon_katana_yellow"] = { model = "w_me_dragon_katana_sheathed_yellow", hash = GetHashKey("weapon_dragon_katana_yellow")},
          ["weapon_butcher_knife"] = { model = "w_me_butcher_knife", hash = GetHashKey("weapon_butcher_knife")},
          ["weapon_plasmasword_orange"] = { model = "w_me_plasmasword_orange", hash = GetHashKey("weapon_plasmasword_orange")},
+         ["weapon_plasmasword_blue"] = { model = "w_me_plasmasword_blue", hash = GetHashKey("weapon_plasmasword_blue")},
+         ["weapon_plasmasword_green"] = { model = "w_me_plasmasword_green", hash = GetHashKey("weapon_plasmasword_green")},
+         ["weapon_plasmasword_pink"] = { model = "w_me_plasmasword_pink", hash = GetHashKey("weapon_plasmasword_pink")},
+         ["weapon_plasmasword_yellow"] = { model = "w_me_plasmasword_yellow", hash = GetHashKey("weapon_plasmasword_yellow")},
+         ["weapon_plasmasword_purple"] = { model = "w_me_plasmasword_purple", hash = GetHashKey("weapon_plasmasword_purple")},
+         ["weapon_plasmasword_white"] = { model = "w_me_plasmasword_white", hash = GetHashKey("weapon_plasmasword_white")},
+         ["weapon_plasmasword_rainbow"] = { model = "w_me_plasmasword_rainbow", hash = GetHashKey("weapon_plasmasword_rainbow")},
       }
 }
