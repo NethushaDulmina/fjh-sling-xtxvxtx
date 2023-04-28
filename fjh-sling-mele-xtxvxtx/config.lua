@@ -61,5 +61,6 @@ Config = {
          ["weapon_plasmasword_purple"] = { model = "w_me_plasmasword_purple", hash = GetHashKey("weapon_plasmasword_purple")},
          ["weapon_plasmasword_white"] = { model = "w_me_plasmasword_white", hash = GetHashKey("weapon_plasmasword_white")},
          ["weapon_plasmasword_rainbow"] = { model = "w_me_plasmasword_rainbow", hash = GetHashKey("weapon_plasmasword_rainbow")},
+         ["weapon_scimitar"] = { model = "w_me_scimitar", hash = GetHashKey("weapon_scimitar")},
       }
 }
