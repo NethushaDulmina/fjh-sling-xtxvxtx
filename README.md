@@ -2,6 +2,8 @@
 
 Simple weapons slings for qbcore framework, xTxVxTx Edit
 
+Already has any weapons I have made put into the script.
+If you bought a katana or rifle etc of mine. No editing to this script is needed.
 
 This is two scripts, one for mele weapons, and another for guns.
 Ensure or Start both of them.
