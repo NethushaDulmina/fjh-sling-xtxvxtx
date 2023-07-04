@@ -47,6 +47,7 @@ Config = {
          ["weapon_advancedrifle"] = { model = "w_ar_advancedrifle", hash = GetHashKey("weapon_advancedrifle")},
          ["weapon_militaryrifle"] = { model = "w_ar_bullpuprifleh4", hash = GetHashKey("weapon_militaryrifle")},
          ["weapon_heavyrifle"] = { model = "w_ar_heavyrifleh", hash = GetHashKey("weapon_heavyrifle")},
+         ["weapon_aug"] = { model = "w_ar_aug", hash = GetHashKey("weapon_aug")},
          -- sub machine guns:
          ["weapon_microsmg"] = { model = "w_sb_microsmg", hash = GetHashKey("weapon_microsmg")},
          ["weapon_assaultsmg"] = { model = "w_sb_assaultsmg", hash = GetHashKey("weapon_assaultsmg")},
@@ -61,6 +62,7 @@ Config = {
          ["weapon_heavysniper_mk2"] = { model = "w_sr_heavysnipermk2", hash = GetHashKey("weapon_heavysniper_mk2")},
          ["weapon_marksmanrifle"] = { model = "w_sr_marksmanrifle", hash = GetHashKey("weapon_marksmanrifle")},
          ["weapon_marksmanrifle_mk2"] = { model = "w_sr_marksmanriflemk2", hash = GetHashKey("weapon_marksmanrifle_mk2")},
+         ["weapon_g28"] = { model = "w_ar_g28_sniper", hash = GetHashKey("weapon_g28")},
          -- shotguns:
          ["weapon_assaultshotgun"] = { model = "w_sg_assaultshotgun", hash = GetHashKey("weapon_assaultshotgun")},
          ["weapon_bullpupshotgun"] = { model = "w_sg_bullpupshotgun", hash = GetHashKey("weapon_bullpupshotgun")},
@@ -72,6 +74,7 @@ Config = {
          ["weapon_dbshotgun"] = { model = "w_sg_doublebarrel", hash = GetHashKey("weapon_dbshotgun")},
          ["weapon_autoshotgun"] = { model = "w_sg_sweeper", hash = GetHashKey("weapon_autoshotgun")},
          ["weapon_combatshotgun"] = { model = "w_sg_pumpshotgunh4", hash = GetHashKey("weapon_combatshotgun")},
+         ["weapon_pumpshotgun_beanbag"] = { model = "w_sg_pumpshotgun_beanbag", hash = GetHashKey("weapon_pumpshotgun_beanbag")},
          -- Heavy Weapons:
          ["weapon_rpg"] = { model = "w_lr_rpg", hash = GetHashKey("weapon_rpg")},
          ["weapon_grenadelauncher"] = { model = "w_lr_grenadelauncher", hash = GetHashKey("weapon_grenadelauncher")},
